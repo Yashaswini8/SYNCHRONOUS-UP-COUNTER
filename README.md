@@ -69,7 +69,7 @@ endmodule
 ![image](https://github.com/user-attachments/assets/57823e53-5728-4693-b42b-106d4494bc36)
 
 **TRUTH TABLE**
-https://github.com/Yashaswini8/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER.git
+![image](https://github.com/user-attachments/assets/87df024f-c281-4507-9d86-933f41571010)
 
 **RESULTS**
 
